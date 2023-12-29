@@ -1,4 +1,5 @@
-https://gifdb.com/images/high/date-a-live-kurumi-tokisaki-finger-on-chin-kojtis8w7cont9ph.gif
+![image](https://github.com/Danshi17/Danshi17/assets/126300058/8b353652-4e5f-47dc-99a6-952425ca499c)
+
 
 - 👋 Hola, Yo soy @Danshi17
 - 👀 Estoy empezando en este mundo...
