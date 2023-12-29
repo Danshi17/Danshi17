@@ -1,4 +1,5 @@
-![image](https://github.com/Danshi17/Danshi17/assets/126300058/8b353652-4e5f-47dc-99a6-952425ca499c)
+![image](https://github.com/Danshi17/Danshi17/assets/126300058/a2ba15b2-f1ca-48d3-baad-175f1c288bc0)
+
 
 
 - 👋 Hola, Yo soy @Danshi17
