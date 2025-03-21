@@ -11,12 +11,7 @@
 📀 SO 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=arch&perline=8)](https://skillicons.dev)
 
 
 📒 Editors:
