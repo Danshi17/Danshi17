@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,jenkins,kali,mongodb,kotlin,linux,maven,mysql," />
+    <img src="https://skillicons.dev/icons?i=java,js,jenkins,c,c#,lua,kali,mongodb,kotlin,linux,maven,mysql," />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 📒 Editors:
 
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,clion,rider,vscode,vscodium,webstorm,phpstorm,idea&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,clion,rider,vscode,webstorm,phpstorm,idea&perline=8)](https://skillicons.dev)
 
 
  * ________   _______  ______ _____  _____ ______ _   _  _____ ______ 
