@@ -1,6 +1,5 @@
- * ________   _______  ______ _____  _____ ______ _   _  _____ ______
 
-📚 Experience
+📚 Intent
 
 
 <p align="center">
@@ -16,10 +15,9 @@
 [![My Skills](https://skillicons.dev/icons?i=arch&perline=8)](https://skillicons.dev)
 
 
-📒 Editors:
+📒 Apps:
 
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,clion,rider,vscode,webstorm,phpstorm,idea&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,rider,vscode,webstorm,phpstorm,idea&perline=8)](https://skillicons.dev)
 
 
- * ________   _______  ______ _____  _____ ______ _   _  _____ ______ 
